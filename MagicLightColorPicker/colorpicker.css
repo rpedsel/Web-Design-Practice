@@ -1,0 +1,7 @@
+#canvas{
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 650px;
+	/*cursor: url(heart.cur),url(heart.ico),crosshair;*/
+}
